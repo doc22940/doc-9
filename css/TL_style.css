@@ -1,0 +1,53 @@
+*{
+    margin:0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+body::-webkit-scrollbar{
+    width: 0.30rem;
+}
+body::-webkit-scrollbar-track{
+    background: #2e2c2c;
+}
+body::-webkit-scrollbar-thumb{
+    background: #fca311;
+}
+body{
+    background-color: #e5e5e5;
+}
+header ,footer {
+    background-color: #2e2c2c;
+    color: #fca311
+}
+.logo {
+    font:30px Montserrat;
+}
+.bg{
+    background-color: #2e2c2c;
+}
+.contact-me{
+    background-color: #fca311;
+}
+.contact-me-nav{
+    border: 1px solid #fca311;
+    color: #fca311;
+}
+.sourcesans_font{
+    font-family: "Source-Sans-Pro", sans-serif;
+}
+.montserrat_font{
+    font-family: "Montserrat";
+}
+.fca_bgcolor{
+    border-color: #fca311;
+}
+.fca_fcolor{
+    color: #fca311;
+}
+.blue_bgcolor{
+    background-color: #14213d;
+}
+.blue_fcolor{
+    color: #14213d;
+}
